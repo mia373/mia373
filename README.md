@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🍉 I'm Mia! I'm currently pursuing a Computer Science degree at the University of Pennsylvania. <br/>
-🍇 Currently working on: A full-stack web application using Node.js, Express.js, and MongoDB. <br/>
+🍇 Currently working on: A full-stack web application using the MERN stack (MongoDB, Express.js, React.js, Node.js). <br/>
 🍓 Ask me about: Boba recommendations in LA, K-pop concerts. <br/>
-🍒 Skills: Java, Python, C, SQL, JavaScript, HTML/CSS, Assembly, etc. <br/>
+🍒 Skills: Python, Java, JavaScript/TypeScript, C/C++, SQL, HTML/CSS, etc. <br/>
 🥑 Languages: English, Mandarin. <br/>
