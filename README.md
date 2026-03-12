@@ -13,8 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm Mia! 🍉
+## 👋 Hi there, it's Mia
 
+**Software Engineer | Finance Transformation**
+- 🧠 Bridging financial advisory with scalable software engineering.
+- 🎓 MS Computer Science @ University of Pennsylvania
+- 🔭 Currently building: ASC 606 Revenue Contract Analyzer (React, TypeScript)
+- 💻 Stack: Python, C++, Java, JavaScript/TypeScript, AI/ML (LangChain, LLMs)
+
+<!--
 I am currently pursuing a Master's in Computer Science at the University of Pennsylvania, transitioning from a background in technical consulting and automation at Deloitte/Google into Software Engineering and AI.
 
 🧠 **AI & Machine Learning Focus:**
@@ -29,3 +36,4 @@ I have a strong foundation in Natural Language Processing and deep learning. My 
 🍓 **Ask me about:** Boba recommendations in LA, K-pop concerts, or making the pivot from tech consulting to SWE!
 
 🥑 **Languages:** English, Mandarin
+-->
