@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Software Engineer | Finance Transformation**
 - 🧠 Bridging financial advisory with scalable software engineering.
 - 🎓 MS Computer Science @ University of Pennsylvania
-- 🔭 Currently building: ASC 606 Revenue Contract Analyzer (React, TypeScript)
+- 🔭 Currently building: Contract Analyzer (React, TypeScript)
 - 💻 Stack: Python, C++, Java, JavaScript/TypeScript, AI/ML (LangChain, LLMs)
 
 <!--
