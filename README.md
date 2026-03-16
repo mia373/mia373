@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, it's Mia
 
-**Software Engineer | Finance Transformation**
-- 🧠 Bridging financial advisory with scalable software engineering.
+**Software Engineer**
 - 🎓 MS Computer Science @ University of Pennsylvania
 - 🔭 Currently building: Contract Analyzer (React, TypeScript)
 - 💻 Stack: Python, C++, Java, JavaScript/TypeScript, AI/ML (LangChain, LLMs)
