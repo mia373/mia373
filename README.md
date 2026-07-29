@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, it's Mia
 
-**Software Engineer**
-🎓 MS Computer Science @ University of Pennsylvania
-💻 Stack: Java, Python, C++, C, JavaScript, TypeScript, SQL, HTML, CSS
+**Software Engineer**<br>
+🎓 MS Computer Science @ University of Pennsylvania<br>
+💻 Stack: Java, Python, C++, C, JavaScript, TypeScript, SQL, HTML, CSS<br>
 🧠 AI/ML: RAG, PyTorch, TensorFlow, scikit-learn, NumPy
 
 🎮 **Ask me about:** games, boba in LA, or K-pop concerts
