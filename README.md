@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="assets/software-engineer-banner.jpg" alt="Software Engineer — Backend Systems, Distributed Systems, Applied AI" width="100%" />
+
 ## 👋 Hi there, it's Mia
 
 **Software Engineer**
-- 🎓 MS Computer Science @ University of Pennsylvania
-- 🔭 Currently building: Contract Analyzer (React, TypeScript)
-- 💻 Stack: Python, C++, Java, JavaScript/TypeScript, AI/ML (LangChain, LLMs)
+🎓 MS Computer Science @ University of Pennsylvania
+💻 Stack: Java, Python, C++, C, JavaScript, TypeScript, SQL, HTML, CSS
+🧠 AI/ML: RAG, PyTorch, TensorFlow, scikit-learn, NumPy
+
+🎮 **Ask me about:** games, boba in LA, or K-pop concerts
 
 <!--
 I am currently pursuing a Master's in Computer Science at the University of Pennsylvania, transitioning from a background in technical consulting and automation at Deloitte/Google into Software Engineering and AI.
