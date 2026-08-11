@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there, it's Mia
-**Software Engineer @ Capital One**<br>
+### Software Engineer @ Capital One
+
 🎓 CS @ University of Pennsylvania<br/>
 🧑‍🏫 Computer Systems TA @ University of Pennsylvania<br/>
 💼 Technical Consultant @ Deloitte and Google<br/>
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 ### 🌐 Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-miaz.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A)](https://miaz.vercel.app/)
-
-👉 **[miaz.vercel.app](https://miaz.vercel.app/)** — projects, experiences, and skills
 
 ### 🛠️ Languages & Tools
 
